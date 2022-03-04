@@ -70,7 +70,7 @@ Update the values in file `3-create-collection.ts` with the values of the collec
 
 Once updated, run the following script to create your collection:
 
-_Requires environment variables `OWNER_ACCOUNT_PRIVATE_KEY` and `COLLECTION_CONTRACT_ADDRESS` to be set._
+_Requires environment variables `OWNER_ACCOUNT_PRIVATE_KEY`, `COLLECTION_CONTRACT_ADDRESS`, and `COLLECTION_PROJECT_ID` to be set._
 
 ```sh
 npm run onboarding:create-collection
